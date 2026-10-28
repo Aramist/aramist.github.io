@@ -1,0 +1,63 @@
+primary_name: "Aramis Tanelus"
+# secondary_name: ""
+navbar_name: "Aramis T."
+
+positions:
+- name: Ph.D. Student
+- name: NYU CDS
+  # logo: /assets/images/badges/NYU_Stacked_RGB_Color.png
+
+
+email: "aramis.tanelus@nyu.edu"
+cv_link: /assets/etc/tanelus_CV_redacted.pdf
+# gscholar: xFmQpf4AAAAJ  # This is an example, replace it with your own Google Scholar ID
+github: Aramist
+# twitter: your_twitter_id  # Do not include the '@' symbol
+linkedin: arajt
+orcid: 0009-0009-9447-2730
+
+short_bio_text_justify: false
+short_bio: >-
+  <p>
+    I'm currently a Ph.D. student in NYU's Center for Data Science advised by <a href="https://brianmcfee.net">Prof. Brian McFee</a>.
+    My research focuses on understanding the geometry of audio representations learned by deep neural networks.
+  </p>
+  <p>
+    Before starting my Ph.D., I worked with <a href="https://neurostatslab.org">Prof. Alex Williams</a> at the Flatiron Institute to develop tools for neuroscientists studing social vocal behavior, with a focus on
+    ensuring our models had a calibrated understanding of how certain they were in their predictions and thus suitible for use in scientific research.
+  </p>
+  <p>
+    Prior to this, I studied neuroscience in my undergraduate career at NYU, where I worked with <a href="https://www.saneslab.com">Prof. Dan Sanes</a> and <a href="https://www.basis.ai/about/people/ralph-peterson/">Dr. Ralph Peterson</a> to study how the gerbil auditory cortex encodes conspecific vocalizations.
+  </p>
+  <p>
+    Outside of work, I'm usually baking or making clothes
+  </p>
+
+portrait_url: /assets/images/photos/portrait_.jpg
+# portrait_caption: >-
+#   Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
+
+education:
+- name: New York University
+  logo: /assets/images/badges/NYU_Stacked_RGB_Color.png
+  position: >- 
+    Center for Data Science <br/>
+    <a href="https://steinhardt.nyu.edu/marl">Music and Audio Research Lab</a><br/>
+    Ph.D. Student
+  date: 2025 - present
+- name: New York University
+  logo: /assets/images/badges/NYU_Stacked_RGB_Color.png
+  position: >-
+    College of Arts and Sciences <br/>
+    B.S. in Neural Science
+  date: 2019 - 2023
+
+experience:
+- name: Flatiron Institute Center for Computational Neuroscience
+  logo: /assets/images/badges/CCN.png
+  position: Research Assistant
+  date: Jun. 2023 - Aug. 2025
+
+awards:
+- name: McKnight Foundation MEFN Matthew Pecot Fellowship
+  date: 2022
